@@ -1,0 +1,34 @@
+\select@language {slovene}
+\contentsline {section}{\numberline {1}Linux da ali ne?}{5}{section.1}
+\contentsline {section}{\numberline {2}Programi za OS Linux}{6}{section.2}
+\contentsline {section}{\numberline {3}Namestitev}{7}{section.3}
+\contentsline {section}{\numberline {4}Namestitev antivirusnega programa}{7}{section.4}
+\contentsline {section}{\numberline {5}Namestitev datuma in ure}{7}{section.5}
+\contentsline {section}{\numberline {6}Namestitev tiskalnika in opti\IeC {\v c}nega \IeC {\v c}italnika}{8}{section.6}
+\contentsline {section}{\numberline {7}Dodajanje uporabnika}{8}{section.7}
+\contentsline {section}{\numberline {8}Namestitev programa Wink za izdelavo interaktivnih gradiv}{9}{section.8}
+\contentsline {subsection}{\numberline {8.1}Izdelava bli\IeC {\v z}njice za program Wink}{10}{subsection.8.1}
+\contentsline {section}{\numberline {9}Povezava na skupno mapo}{11}{section.9}
+\contentsline {section}{\numberline {10}Urejanje video posnetkov}{12}{section.10}
+\contentsline {section}{\numberline {11}Izvoz .tex datoteke v HTML}{13}{section.11}
+\contentsline {section}{\numberline {12}Namestitev urejevalnika besedil Texmaker}{14}{section.12}
+\contentsline {subsection}{\numberline {12.1}Namestitev slovenskega \IeC {\v c}rkovalnika}{14}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Zakaj uporabljati texmaker?}{15}{subsection.12.2}
+\contentsline {subsection}{\numberline {12.3}Texmaker na OS Windows}{15}{subsection.12.3}
+\contentsline {section}{\numberline {13}Zapis glasbe na CD}{16}{section.13}
+\contentsline {section}{\numberline {14}Opis najbolj uporabnih programov}{16}{section.14}
+\contentsline {subsection}{\numberline {14.1}LibreOffice}{16}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}ArduinoIDE}{16}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}bCNC}{16}{subsection.14.3}
+\contentsline {subsection}{\numberline {14.4}Fritzing}{16}{subsection.14.4}
+\contentsline {subsection}{\numberline {14.5}SublimeText}{17}{subsection.14.5}
+\contentsline {subsection}{\numberline {14.6}FileZilla}{17}{subsection.14.6}
+\contentsline {subsection}{\numberline {14.7}GIMP}{17}{subsection.14.7}
+\contentsline {subsection}{\numberline {14.8}Inkscape}{17}{subsection.14.8}
+\contentsline {subsection}{\numberline {14.9}FoxitReader}{17}{subsection.14.9}
+\contentsline {subsection}{\numberline {14.10}Kazam}{17}{subsection.14.10}
+\contentsline {subsection}{\numberline {14.11}Stelarium}{17}{subsection.14.11}
+\contentsline {subsection}{\numberline {14.12}Tuxmath}{18}{subsection.14.12}
+\contentsline {subsection}{\numberline {14.13}GCompris}{18}{subsection.14.13}
+\contentsline {subsection}{\numberline {14.14}Klavaro}{18}{subsection.14.14}
+\contentsline {subsection}{\numberline {14.15}SketchUp}{19}{subsection.14.15}
